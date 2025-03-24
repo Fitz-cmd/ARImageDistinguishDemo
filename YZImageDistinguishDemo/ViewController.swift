@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  YZImageDistinguishDemo
 //
-//  Created by Lester‘s Mac on 2021/8/29.
+//  Created by Baida
 //
 
 import UIKit
